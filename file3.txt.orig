@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+Este é o exemplo de um ficheiro de texto file 3
+
 <h2>Bebidas</h2>
 
 <ul>
@@ -9,6 +12,7 @@
 
 
 
+=======
 <h2>Comidas</h2>
 
 <ul>
@@ -17,4 +21,4 @@
         <li>Tostas</li>
         <li>Sandes</li>
 </ul>
-
+>>>>>>> primeirobranch
