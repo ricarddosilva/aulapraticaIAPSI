@@ -1,0 +1,1 @@
+criado ficheiro depois de efetuar git clone na maquina 2
