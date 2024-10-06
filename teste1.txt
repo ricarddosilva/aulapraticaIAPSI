@@ -1,1 +1,4 @@
 Teste primeiro documento!
+
+
+Fiz alteraçao no ficheiro e deu certo!!
